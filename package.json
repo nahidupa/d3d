@@ -1,0 +1,23 @@
+{
+  "name": "d3d",
+  "version": "0.0.0",
+  "description": "Angular directive for d3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nahidupa/d3d.git"
+  },
+  "keywords": [
+    "angular",
+    "d3"
+  ],
+  "author": "nahidul kibria",
+  "license": "GPL3",
+  "bugs": {
+    "url": "https://github.com/nahidupa/d3d/issues"
+  },
+  "homepage": "https://github.com/nahidupa/d3d"
+}
